@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
-[![jiwonniddaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonniddaaa&show_icons=true&theme=dark)](https://github.com/jiwonniddaaa)
-
 ---
 
 ## 🎓 Education
